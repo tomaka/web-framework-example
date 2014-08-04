@@ -1,0 +1,8 @@
+[package]
+
+name = "web_framework_example"
+version = "0.0.1"
+authors = ["Pierre Krieger <pierre.krieger1708@gmail.com>"]
+
+[dependencies.web_framework]
+git = "http://github.com/tomaka/web-framework"
